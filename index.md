@@ -1,4 +1,4 @@
 **hello!** 
 *Types of cats :)*
-- Maine coon
-[page 2](meow.md)
+- Maine coon  
+[page 2](Meow.md)
